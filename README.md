@@ -3,4 +3,4 @@ E - Cashier app for simple restaurant develop with React Native and Firebase Rea
 
 Current capability:
 1. Input new menu into database
-2. Read data from database
+2. Read menu data from database
